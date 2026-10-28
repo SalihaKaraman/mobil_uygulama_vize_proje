@@ -1,0 +1,1 @@
+# People uygulaması paketi
